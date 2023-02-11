@@ -2,6 +2,9 @@
 
 Projects Ordered Chronologically (Top is most recent)
 
+[**Stochastic Gradient Descent**](https://github.com/Chris-Raddatz/DataQuest-DataScience-Projects/blob/main/Working%20Out.ipynb)
+- I used Stochastic Gradient Descent with Linear Regression to predict how many people there would be working out at any given time on a college campus. 
+
 [**Modeling Health Insurance**](https://github.com/Chris-Raddatz/DataQuest-DataScience-Projects/blob/main/Insurance%20Prices.ipynb)
 - In this project I build use exploratory data analysis to pick features for a LinearRegression model and analyze the parameters of my model and it's accuracy.
 
